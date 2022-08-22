@@ -1,4 +1,4 @@
-# CSCI-395.48 - Practical Web Development <br> Fall 2022, Hunter College
+# CSCI-395.48 - Practical Web Development <br/> Fall 2022, Hunter College
 
 ---
 
@@ -58,6 +58,8 @@ This is a zero-textbook cost course, and as such we don't have any required text
   * Minimal web framework build on top of NodeJS.
 
 And additional documentations around frameworks that we'll take a look at.
+
+In lieu of office hours, we will be leveraging Slack as a class-wide communication/collaboration platform. You can post questions/comments on anything regarding our course materials, assignment and projects. Please do be respectful of on another and avoid any (unintentional) plagiarism on the platform. 
 
 ---
 
