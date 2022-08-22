@@ -24,8 +24,8 @@ Recommended prerequisites:
 
 ## Grading
 
-60% - Assignments x5 (each ~10-20%) <br/>
-30% - Final Project + Presentation <br/>
+50% - Assignments (5 x 10%) <br/>
+40% - Final Project (30%) + Presentation (10%) <br/>
 10% - Exit Assessment
 
 ---
