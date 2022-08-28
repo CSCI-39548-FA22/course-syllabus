@@ -59,7 +59,10 @@ This is a zero-textbook cost course, and as such we don't have any required text
 
 And additional documentations around frameworks that we'll take a look at.
 
-In lieu of office hours, we will be leveraging Slack as a class-wide communication/collaboration platform. You can post questions/comments on anything regarding our course materials, assignment and projects. Please do be respectful of on another and avoid any (unintentional) plagiarism on the platform. 
+In lieu of office hours, we will be leveraging Slack as a class-wide communication/collaboration platform. You can post questions/comments on anything regarding our course materials, assignment and projects. Please do be respectful of on another and avoid any (unintentional) plagiarism on the platform.
+
+## Slack
+https://join.slack.com/t/hunterwebdev-fa22/shared_invite/zt-1enq3zs4i-6us6rwihfYv0HY8SEKTLrQ
 
 ---
 
