@@ -66,6 +66,11 @@ https://join.slack.com/t/hunterwebdev-fa22/shared_invite/zt-1enq3zs4i-6us6rwihfY
 
 ---
 
+### GitHub Classroom
+https://classroom.github.com/a/seP-JA-M
+
+---
+
 ## Course Topics/Schedule
 *Content/order subject to change
 
