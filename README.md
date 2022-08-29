@@ -1,5 +1,5 @@
 # CSCI-395.48 - Practical Web Development <br/> Fall 2022, Hunter College
-
+### Monday, 5:30pm - 8:00pm <br/> Room TH502
 ---
 
 ## Course Description
