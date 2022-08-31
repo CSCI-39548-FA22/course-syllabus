@@ -69,8 +69,8 @@ https://join.slack.com/t/hunterwebdev-fa22/shared_invite/zt-1enq3zs4i-6us6rwihfY
 ### GitHub Classroom
 We will be using GitHub classroom to complete our assignments. Each assignment link will be handed out via BB and will be updated below.
 
-Assignment 0: TBD
-<br/>Assignment 1: https://classroom.github.com/a/M1VDktFi
+Assignment 0: https://classroom.github.com/a/M1VDktFi
+<br/>Assignment 1: TBD
 <br/>Assignment 2: TBD
 <br/>Assignment 3: TBD
 <br/>Assignment 4: TBD
