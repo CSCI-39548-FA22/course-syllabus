@@ -49,7 +49,7 @@ This is a zero-textbook cost course, and as such we don't have any required text
 
 * NodeJS Docs: https://nodejs.org/en/docs/
     * Official documentation for NodeJS
-    * We will be using Node.js 17.x and +
+    * We will be using Node.js 16.x and +
     * Focusing mostly around the http module.
 
 
